@@ -6,4 +6,4 @@
 - **Interests**: Software development mostly in C++
 - **Goals**: Might seem like a dream, but I want to work in Google
 
-**[Contact Me](mailto:pitmtech.costas@gmail.com)**
+**[Contact Me](mailto:costas.pitmtech.com)**
