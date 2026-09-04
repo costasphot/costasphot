@@ -2,12 +2,12 @@
 
 - **Name**: Costas Phot
 - **Age**: 22 years old
-- **Studies**: Currently a fourth year undergraduate in NKUA
+- **Studies**: Currently a fourth year undergraduate in NKUA.
 - **Interests**:
-  - Software development in C/C++, backend web dev, and app dev in Kotlin.
+  - Software development in C/C++, and full-stack web and app dev.
   - **DSP** (*Digital Signal Processing*) using MATLAB/Python, and ML.
   - Cloud Computing, system design, and stream processing.
-- **Goals**: Complete uni in 4 years (current avg grade: 7.48).
+- **Goals**: Complete uni in 4.5 years (current avg grade: 7.16).
 
 [![roadmap.sh](https://roadmap.sh/card/tall/68d6a53cd7b6adb66d23f1c2?variant=dark&roadmaps=cpp%2Caws%2Cdatastructures-and-algorithms%2Ccyber-security)](https://roadmap.sh)
 
